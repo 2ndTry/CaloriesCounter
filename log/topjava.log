@@ -1,0 +1,4 @@
+2021-04-09 13:55:04,528 DEBUG UserServlet [UserServlet.java:19] forward to users
+2021-04-09 13:55:06,509 INFO  MealServlet [MealServlet.java:68] getAll
+2021-04-09 13:55:08,581 INFO  MealServlet [MealServlet.java:68] getAll
+2021-04-09 13:55:12,266 INFO  MealServlet [MealServlet.java:68] getAll
